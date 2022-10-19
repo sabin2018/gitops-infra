@@ -1,7 +1,7 @@
 apiVersion: ec2.aws.crossplane.io/v1beta1
 kind: VPC
 metadata:
-  name: crossplane-demo-vpc
+  name: crossplane-demo-vpcc
 spec:
   forProvider:
     region: us-west-1
