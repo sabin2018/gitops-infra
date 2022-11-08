@@ -29,7 +29,7 @@ metadata:
 spec:
   forProvider:
     region: us-west-1
-    availabilityZone: us-west-1a
+    availabilityZone: us-west-1c
     cidrBlock: 192.167.2.0/24
     vpcIdRef:
       name: crossplane-demo-vpc
